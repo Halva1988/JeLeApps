@@ -1,12 +1,42 @@
-# React + Vite
+# JeLeApps
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Этот проект создан с использованием Vite и React. Просто чёрный квадрат по центру страницы.
 
-Currently, two official plugins are available:
+## Клонирование репозитория
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Для клонирования репозитория используйте команду:
 
-## Expanding the ESLint configuration
+```sh
+git clone https://github.com/Halva1988/JeLeApps.git
+```
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Установка зависимостей
+
+Для установки зависимостей используйте команду:
+
+```sh
+npm install
+```
+
+## Запуск в режиме разработки
+
+Для запуска проекта в режиме разработки используйте команду:
+
+```sh
+npm run dev
+```
+
+## Сборка проекта
+
+Для сборки проекта используйте команду:
+
+```sh
+npm run build
+```
+
+## Деплой на GitHub Pages
+
+Для деплоя проекта на GitHub Pages выполните команду:
+```sh
+npm run deploy
+```
